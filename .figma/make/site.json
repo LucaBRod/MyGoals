@@ -1,0 +1,10 @@
+{
+  "description": "Empower users to align their behaviors with personal values through an interactive goal-setting process that fosters self-reflection and actionable planning.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
